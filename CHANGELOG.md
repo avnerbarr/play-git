@@ -1,4 +1,10 @@
-commit 2c9afdb73670c68519fd2684a52403a0e45a1ccf
+commit c12ad20518ef6f5797370e788f69217fca3bc98c
+Author: avner <avner.barr@gmail.com>
+Date:   Wed Aug 4 18:47:54 2021 +0300
+
+    this is a message
+
+commit c88c3ee3acd822a70673242daf5497f68896e0fc
 Author: avner <avner.barr@gmail.com>
 Date:   Wed Aug 4 18:47:10 2021 +0300
 
